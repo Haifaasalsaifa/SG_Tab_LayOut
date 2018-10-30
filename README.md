@@ -14,4 +14,10 @@ Program ini bertujuan untuk membuat tab lay out pada android, khususnya ke arah 
  5. Terakhir jangan lupa tambahkan
         tabLayout.setOnTabSelectedListener(this);
     untuk memberi tahu jika pengguna me-swipe maka akan pindah tab
-    
+ 
+ Dan ini adalah hasil dari program tersebut
+
+
+![1](https://user-images.githubusercontent.com/36159446/47692348-e34b5380-dc27-11e8-8b24-5f22bda3f85e.PNG)
+![2](https://user-images.githubusercontent.com/36159446/47692349-e3e3ea00-dc27-11e8-8dac-55bb6449ffa3.PNG)
+![3](https://user-images.githubusercontent.com/36159446/47692350-e3e3ea00-dc27-11e8-9b6c-b2b0632f8116.PNG)
